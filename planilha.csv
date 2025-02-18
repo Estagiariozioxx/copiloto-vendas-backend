@@ -1,0 +1,352 @@
+FAZENDA,ESTADO,MUNICÍPIO,Nº ANIMAL,LOTE,RAÇA,CATEGORIA,ECC,CICLICIDADE,PROTOCOLO,IMPLANTE P4,EMPRESA,GnRH NA IA,PGF NO D0,Dose PGF retirada,Marca PGF retirada,Dose CE,eCG,DOSE eCG,TOURO,RAÇA TOURO,EMPRESA TOURO,INSEMINADOR,Nº da IATF,DG,VAZIA COM OU SEM CL,PERDA
+Fazenda Santa Luzia,BA,Salvador,100007,LT0101SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro1,Angus,Genex,Joana Mendes,IATF 1,1,1,1
+Fazenda do Campo,SP,Campinas,100014,LT0102BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro2,Nelore,CRV Lagoa,Carlos Silva,IATF 2,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,100021,LT0103DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro3,Hereford,Alta Genetics,Mariana Oliveira,IATF 3,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,100028,LT0104PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro4,Brangus,ABS Pecplan,Ricardo Santos,IATF 4,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,100035,LT0105ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro5,Charolais,Genex,Ana Maria,IATF 5,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,100042,LT0106SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1+1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro6,Senepol,CRV Lagoa,Patrícia Nunes,IATF 6,0,0,0
+Fazenda Esperança,MG,Curitiba,100049,LT0107BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro7,Brahman,Alta Genetics,Bruno Almeida,IATF 7,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,100056,LT0108DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro8,Canchim,ABS Pecplan,Beatriz Souza,IATF 8,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,100063,LT0109PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro9,Simmental,Genex,Lucas Pereira,IATF 9,1,1,1
+Fazenda Verde Vale,SP,Barreiras,100070,LT0110ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro10,Limousin,CRV Lagoa,Renata Gomes,IATF 10,0,0,1
+Fazenda Estrela,MG,Niterói,100077,LT0111SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro11,Angus,Alta Genetics,Marcos Pinto,IATF 11,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,100084,LT0112BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro12,Nelore,ABS Pecplan,Joana Mendes,IATF 12,0,0,1
+Fazenda Aurora,RS,Salvador,100091,LT0113DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro13,Hereford,Genex,Carlos Silva,IATF 13,1,1,1
+Fazenda Monte Belo,PR,Campinas,100098,LT0114PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro14,Brangus,CRV Lagoa,Mariana Oliveira,IATF 14,0,0,0
+Fazenda Paraíso,MG,Uberlândia,100105,LT0115ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro15,Charolais,Alta Genetics,Ricardo Santos,IATF 15,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,100112,LT0116SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro16,Senepol,ABS Pecplan,Ana Maria,IATF 16,0,0,1
+Fazenda do Campo,BA,Campinas,100119,LT0117BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,Ciosin,1.0 mg,Novormon,400 UI,Touro17,Brahman,Genex,Carlos Silva,IATF 17,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,100126,LT0118DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Lutalise,0.5 mg,Folligon,300 UI,Touro18,Canchim,CRV Lagoa,Mariana Oliveira,IATF 18,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,100133,LT0119PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro19,Simmental,Alta Genetics,Ricardo Santos,IATF 19,1,1,1
+Fazenda Jardim,RS,Itumbiara,100140,LT0120ES,Limousin,Primípara precoce,3.1,0,8 dias,Fertilcare 600,MSD,0,0,2,Ciosin,1.0 mg,Novormon,400 UI,Touro20,Limousin,ABS Pecplan,Ana Maria,IATF 20,0,0,0
+Fazenda Boa Vista,PR,Salvador,100147,LT0121SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,Lutalise,0.5 mg,Folligon,300 UI,Touro21,Angus,Genex,Joana Mendes,IATF 21,1,1,1
+Fazenda Esperança,MG,Campinas,100154,LT0122BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro22,Nelore,CRV Lagoa,Carlos Silva,IATF 22,0,0,1
+Fazenda Bela Vista,RJ,Uberlândia,100161,LT0123DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Novormon,400 UI,Touro23,Hereford,Alta Genetics,Mariana Oliveira,IATF 23,1,1,0
+Fazenda Sol Nascente,BA,Rio de Janeiro,100168,LT0124PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Lutalise,0.5 mg,Folligon,300 UI,Touro24,Brangus,ABS Pecplan,Ricardo Santos,IATF 24,0,0,1
+Fazenda Verde Vale,SP,Itumbiara,100175,LT0125ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Primer monodose,0.6 mg,eCGEN,200 UI,Touro25,Charolais,Genex,Ana Maria,IATF 25,1,1,1
+Fazenda Estrela,MG,Salvador,100182,LT0126SN,Senepol,Multípara,2.3,0,8 dias,Repro one,Globalgen,0,1,2,Repro one,1.0 mg,Novormon,400 UI,Touro26,Senepol,CRV Lagoa,Carlos Silva,IATF 26,0,0,1
+Fazenda Recanto Verde,RJ,Campinas,100189,LT0127BV,Brahman,Secundípara,2.7,1,9 dias,Fertilcare 600,MSD,1,1+1,1,CIDR,0.5 mg,Folligon,300 UI,Touro27,Brahman,Alta Genetics,Mariana Oliveira,IATF 27,1,1,0
+Fazenda Aurora,RS,Uberlândia,100196,LT0128DF,Canchim,Primípara precoce,2.9,0,7 dias,Primer monodose,Agener,0,0,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro28,Canchim,ABS Pecplan,Ricardo Santos,IATF 28,0,0,1
+Fazenda Monte Belo,PR,Rio de Janeiro,100203,LT0129PA,Simmental,Primípara,3.3,1,8 dias,Repro one,Globalgen,1,1,1,Repro one,1.0 mg,Novormon,400 UI,Touro29,Simmental,Genex,Joana Mendes,IATF 29,1,1,1
+Fazenda Paraíso,MG,Itumbiara,100210,LT0130ES,Limousin,Multípara,3.5,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro30,Limousin,CRV Lagoa,Carlos Silva,IATF 30,0,0,1
+Fazenda Santa Luzia,RJ,Salvador,100217,LT0131SN,Angus,Secundípara,3.7,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro31,Angus,Alta Genetics,Mariana Oliveira,IATF 31,1,1,0
+Fazenda do Campo,BA,Campinas,100224,LT0132BV,Nelore,Primípara precoce,3.9,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro32,Nelore,ABS Pecplan,Ricardo Santos,IATF 32,0,0,1
+Fazenda Nova Vida,SP,Uberlândia,100231,LT0133DF,Hereford,Primípara,2.1,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro33,Hereford,Genex,Joana Mendes,IATF 33,1,1,1
+Fazenda da Serra,MG,Rio de Janeiro,100238,LT0134PA,Brangus,Multípara,2.3,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro34,Brangus,CRV Lagoa,Carlos Silva,IATF 34,0,0,1
+Fazenda Jardim,RS,Campinas,100245,LT0135ES,Charolais,Secundípara,2.7,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro35,Charolais,Alta Genetics,Mariana Oliveira,IATF 35,1,1,0
+Fazenda Boa Vista,PR,Uberlândia,100252,LT0136SN,Senepol,Primípara precoce,2.9,0,9 dias,Primer monodose,Agener,0,0,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro36,Senepol,ABS Pecplan,Ricardo Santos,IATF 36,0,0,1
+Fazenda Esperança,MG,Rio de Janeiro,100259,LT0137BV,Brahman,Primípara,3.3,1,7 dias,Repro one,Globalgen,1,1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro37,Brahman,Genex,Joana Mendes,IATF 37,1,1,1
+Fazenda Bela Vista,RJ,Campinas,100266,LT0138DF,Canchim,Multípara,3.5,0,8 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro38,Canchim,CRV Lagoa,Carlos Silva,IATF 38,0,0,0
+Fazenda Sol Nascente,BA,Uberlândia,100273,LT0139PA,Simmental,Secundípara,3.7,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro39,Simmental,Alta Genetics,Mariana Oliveira,IATF 39,1,1,1
+Fazenda Verde Vale,SP,Rio de Janeiro,100280,LT0140ES,Limousin,Primípara precoce,3.9,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro40,Limousin,ABS Pecplan,Ricardo Santos,IATF 40,0,0,1
+Fazenda Estrela,MG,Campinas,100287,LT0141SN,Angus,Primípara,2.1,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro41,Angus,Genex,Joana Mendes,IATF 41,1,1,0
+Fazenda Recanto Verde,RJ,Uberlândia,100294,LT0142BV,Nelore,Multípara,2.3,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro42,Nelore,CRV Lagoa,Carlos Silva,IATF 42,0,0,1
+Fazenda Aurora,RS,Rio de Janeiro,100301,LT0143DF,Hereford,Secundípara,2.7,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro43,Hereford,Alta Genetics,Mariana Oliveira,IATF 43,1,1,1
+Fazenda Monte Belo,PR,Campinas,100308,LT0144PA,Brangus,Primípara precoce,2.9,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro44,Brangus,ABS Pecplan,Ricardo Santos,IATF 44,0,0,0
+Fazenda Paraíso,MG,Uberlândia,100315,LT0145ES,Charolais,Primípara,3.3,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro45,Charolais,Genex,Joana Mendes,IATF 45,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,100322,LT0146SN,Senepol,Multípara,3.5,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro46,Senepol,CRV Lagoa,Carlos Silva,IATF 46,0,0,1
+Fazenda do Campo,BA,Campinas,100329,LT0147BV,Brahman,Secundípara,3.7,1,8 dias,CIDR,Bayer,1,1+1,1,CIDR,1.0 mg,Novormon,400 UI,Touro47,Brahman,Alta Genetics,Mariana Oliveira,IATF 47,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,100336,LT0148DF,Canchim,Primípara precoce,3.9,0,9 dias,Primer monodose,Agener,0,0,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro48,Canchim,CRV Lagoa,Carlos Silva,IATF 48,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,100343,LT0149PA,Simmental,Primípara,2.1,1,7 dias,Repro one,Globalgen,1,1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro49,Simmental,Alta Genetics,Mariana Oliveira,IATF 49,1,1,1
+Fazenda Jardim,RS,Campinas,100350,LT0150ES,Limousin,Multípara,2.3,0,8 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro50,Limousin,ABS Pecplan,Ricardo Santos,IATF 50,0,0,0
+Fazenda Santa Luzia,BA,Salvador,100357,LT0201SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro51,Angus,Genex,Joana Mendes,IATF 51,1,1,1
+Fazenda do Campo,SP,Campinas,100364,LT0202BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro52,Nelore,CRV Lagoa,Carlos Silva,IATF 52,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,100371,LT0203DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro53,Hereford,Alta Genetics,Mariana Oliveira,IATF 53,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,100378,LT0204PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro54,Brangus,ABS Pecplan,Ricardo Santos,IATF 54,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,100385,LT0205ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro55,Charolais,Genex,Ana Maria,IATF 55,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,100392,LT0206SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro56,Senepol,CRV Lagoa,Patrícia Nunes,IATF 56,0,0,0
+Fazenda Esperança,MG,Curitiba,100399,LT0207BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro57,Brahman,Alta Genetics,Bruno Almeida,IATF 57,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,100406,LT0208DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro58,Canchim,ABS Pecplan,Beatriz Souza,IATF 58,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,100413,LT0209PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro59,Simmental,Genex,Lucas Pereira,IATF 59,1,1,1
+Fazenda Verde Vale,SP,Barreiras,100420,LT0210ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro60,Limousin,CRV Lagoa,Renata Gomes,IATF 60,0,0,1
+Fazenda Estrela,MG,Niterói,100427,LT0211SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro61,Angus,Alta Genetics,Marcos Pinto,IATF 61,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,100434,LT0212BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro62,Nelore,ABS Pecplan,Joana Mendes,IATF 62,0,0,1
+Fazenda Aurora,RS,Salvador,100441,LT0213DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro63,Hereford,Genex,Carlos Silva,IATF 63,1,1,1
+Fazenda Monte Belo,PR,Campinas,100448,LT0214PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro64,Brangus,CRV Lagoa,Mariana Oliveira,IATF 64,0,0,0
+Fazenda Paraíso,MG,Uberlândia,100455,LT0215ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro65,Charolais,Alta Genetics,Ricardo Santos,IATF 65,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,100462,LT0216SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro66,Senepol,ABS Pecplan,Ana Maria,IATF 66,0,0,1
+Fazenda do Campo,BA,Campinas,100469,LT0217BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,CIDR,1.0 mg,Novormon,400 UI,Touro67,Brahman,Genex,Joana Mendes,IATF 67,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,100476,LT0218DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro68,Canchim,CRV Lagoa,Carlos Silva,IATF 68,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,100483,LT0219PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro69,Simmental,Alta Genetics,Mariana Oliveira,IATF 69,1,1,1
+Fazenda Jardim,RS,Campinas,100490,LT0220ES,Limousin,Primípara precoce,2.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro70,Limousin,ABS Pecplan,Ricardo Santos,IATF 70,0,0,0
+Fazenda Boa Vista,PR,Porto Alegre,100497,LT0221SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro71,Angus,Genex,Joana Mendes,IATF 71,1,1,1
+Fazenda Esperança,MG,Curitiba,100504,LT0222BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro72,Nelore,CRV Lagoa,Carlos Silva,IATF 72,0,0,1
+Fazenda Bela Vista,RJ,Goiânia,100511,LT0223DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro73,Hereford,Alta Genetics,Mariana Oliveira,IATF 73,1,1,0
+Fazenda Sol Nascente,BA,Itumbiara,100518,LT0224PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro74,Brangus,ABS Pecplan,Ricardo Santos,IATF 74,0,0,1
+Fazenda Verde Vale,SP,Belo Horizonte,100525,LT0225ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro75,Charolais,Genex,Ana Maria,IATF 75,1,1,1
+Fazenda Estrela,MG,Barreiras,100532,LT0226SN,Senepol,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro76,Senepol,CRV Lagoa,Patrícia Nunes,IATF 76,0,0,0
+Fazenda Recanto Verde,RJ,Niterói,100539,LT0227BV,Brahman,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro77,Brahman,Alta Genetics,Bruno Almeida,IATF 77,1,1,1
+Fazenda Aurora,RS,Juiz de Fora,100546,LT0228DF,Canchim,Primípara precoce,2.9,0,7 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro78,Canchim,ABS Pecplan,Beatriz Souza,IATF 78,0,0,1
+Fazenda Monte Belo,PR,Salvador,100553,LT0229PA,Simmental,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro79,Simmental,Genex,Lucas Pereira,IATF 79,1,1,1
+Fazenda Paraíso,MG,Campinas,100560,LT0230ES,Limousin,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro80,Limousin,CRV Lagoa,Renata Gomes,IATF 80,0,0,1
+Fazenda Santa Luzia,RJ,Uberlândia,100567,LT0231SN,Angus,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Repro one,0.6 mg,eCGEN,200 UI,Touro81,Angus,Alta Genetics,Mariana Oliveira,IATF 81,1,1,0
+Fazenda do Campo,BA,Rio de Janeiro,100574,LT0232BV,Nelore,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro82,Nelore,ABS Pecplan,Ricardo Santos,IATF 82,0,0,1
+Fazenda Nova Vida,SP,Campinas,100581,LT0233DF,Hereford,Primípara,2.1,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro83,Hereford,Genex,Joana Mendes,IATF 83,1,1,1
+Fazenda da Serra,MG,Uberlândia,100588,LT0234PA,Brangus,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro84,Brangus,CRV Lagoa,Carlos Silva,IATF 84,0,0,1
+Fazenda Jardim,RS,Rio de Janeiro,100595,LT0235ES,Charolais,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro85,Charolais,Alta Genetics,Mariana Oliveira,IATF 85,1,1,0
+Fazenda Boa Vista,PR,Campinas,100602,LT0236SN,Senepol,Primípara precoce,2.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro86,Senepol,ABS Pecplan,Ricardo Santos,IATF 86,0,0,1
+Fazenda Esperança,MG,Uberlândia,100609,LT0237BV,Brahman,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro87,Brahman,Genex,Joana Mendes,IATF 87,1,1,1
+Fazenda Bela Vista,RJ,Rio de Janeiro,100616,LT0238DF,Canchim,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro88,Canchim,CRV Lagoa,Carlos Silva,IATF 88,0,0,0
+Fazenda Sol Nascente,BA,Campinas,100623,LT0239PA,Simmental,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro89,Simmental,Alta Genetics,Mariana Oliveira,IATF 89,1,1,1
+Fazenda Verde Vale,SP,Uberlândia,100630,LT0240ES,Limousin,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro90,Limousin,ABS Pecplan,Ricardo Santos,IATF 90,0,0,1
+Fazenda Santa Luzia,BA,Salvador,100637,LT0301SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro91,Angus,Genex,Joana Mendes,IATF 91,1,1,1
+Fazenda do Campo,SP,Campinas,100644,LT0302BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro92,Nelore,CRV Lagoa,Carlos Silva,IATF 92,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,100651,LT0303DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro93,Hereford,Alta Genetics,Mariana Oliveira,IATF 93,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,100658,LT0304PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro94,Brangus,ABS Pecplan,Ricardo Santos,IATF 94,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,100665,LT0305ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro95,Charolais,Genex,Ana Maria,IATF 95,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,100672,LT0306SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro96,Senepol,CRV Lagoa,Patrícia Nunes,IATF 96,0,0,0
+Fazenda Esperança,MG,Curitiba,100679,LT0307BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro97,Brahman,Alta Genetics,Bruno Almeida,IATF 97,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,100686,LT0308DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro98,Canchim,ABS Pecplan,Beatriz Souza,IATF 98,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,100693,LT0309PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro99,Simmental,Genex,Lucas Pereira,IATF 99,1,1,1
+Fazenda Verde Vale,SP,Barreiras,100700,LT0310ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro100,Limousin,CRV Lagoa,Renata Gomes,IATF 100,0,0,1
+Fazenda Estrela,MG,Niterói,100707,LT0311SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro101,Angus,Alta Genetics,Marcos Pinto,IATF 101,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,100714,LT0312BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro102,Nelore,ABS Pecplan,Joana Mendes,IATF 102,0,0,1
+Fazenda Aurora,RS,Salvador,100721,LT0313DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro103,Hereford,Genex,Carlos Silva,IATF 103,1,1,1
+Fazenda Monte Belo,PR,Campinas,100728,LT0314PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro104,Brangus,CRV Lagoa,Mariana Oliveira,IATF 104,0,0,0
+Fazenda Paraíso,MG,Uberlândia,100735,LT0315ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro105,Charolais,Alta Genetics,Ricardo Santos,IATF 105,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,100742,LT0316SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro106,Senepol,ABS Pecplan,Ana Maria,IATF 106,0,0,1
+Fazenda do Campo,BA,Campinas,100749,LT0317BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,CIDR,1.0 mg,Novormon,400 UI,Touro107,Brahman,Genex,Joana Mendes,IATF 107,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,100756,LT0318DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro108,Canchim,CRV Lagoa,Carlos Silva,IATF 108,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,100763,LT0319PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro109,Simmental,Alta Genetics,Mariana Oliveira,IATF 109,1,1,1
+Fazenda Jardim,RS,Campinas,100770,LT0320ES,Limousin,Primípara precoce,2.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro110,Limousin,ABS Pecplan,Ricardo Santos,IATF 110,0,0,0
+Fazenda Boa Vista,PR,Porto Alegre,100777,LT0321SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro111,Angus,Genex,Joana Mendes,IATF 111,1,1,1
+Fazenda Esperança,MG,Curitiba,100784,LT0322BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro112,Nelore,CRV Lagoa,Carlos Silva,IATF 112,0,0,1
+Fazenda Bela Vista,RJ,Goiânia,100791,LT0323DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro113,Hereford,Alta Genetics,Mariana Oliveira,IATF 113,1,1,0
+Fazenda Sol Nascente,BA,Itumbiara,100798,LT0324PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro114,Brangus,ABS Pecplan,Ricardo Santos,IATF 114,0,0,1
+Fazenda Verde Vale,SP,Belo Horizonte,100805,LT0325ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro115,Charolais,Genex,Ana Maria,IATF 115,1,1,1
+Fazenda Estrela,MG,Barreiras,100812,LT0326SN,Senepol,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro116,Senepol,CRV Lagoa,Patrícia Nunes,IATF 116,0,0,0
+Fazenda Recanto Verde,RJ,Niterói,100819,LT0327BV,Brahman,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro117,Brahman,Alta Genetics,Bruno Almeida,IATF 117,1,1,1
+Fazenda Aurora,RS,Juiz de Fora,100826,LT0328DF,Canchim,Primípara precoce,2.9,0,7 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro118,Canchim,ABS Pecplan,Beatriz Souza,IATF 118,0,0,1
+Fazenda Monte Belo,PR,Salvador,100833,LT0329PA,Simmental,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro119,Simmental,Genex,Lucas Pereira,IATF 119,1,1,1
+Fazenda Paraíso,MG,Campinas,100840,LT0330ES,Limousin,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro120,Limousin,CRV Lagoa,Renata Gomes,IATF 120,0,0,1
+Fazenda Santa Luzia,BA,Salvador,100847,LT0401SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro121,Angus,Genex,Joana Mendes,IATF 121,1,1,1
+Fazenda do Campo,SP,Campinas,100854,LT0402BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro122,Nelore,CRV Lagoa,Carlos Silva,IATF 122,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,100861,LT0403DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro123,Hereford,Alta Genetics,Mariana Oliveira,IATF 123,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,100868,LT0404PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro124,Brangus,ABS Pecplan,Ricardo Santos,IATF 124,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,100875,LT0405ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro125,Charolais,Genex,Ana Maria,IATF 125,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,100882,LT0406SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro126,Senepol,CRV Lagoa,Patrícia Nunes,IATF 126,0,0,0
+Fazenda Esperança,MG,Curitiba,100889,LT0407BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro127,Brahman,Alta Genetics,Bruno Almeida,IATF 127,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,100896,LT0408DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro128,Canchim,ABS Pecplan,Beatriz Souza,IATF 128,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,100903,LT0409PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro129,Simmental,Genex,Lucas Pereira,IATF 129,1,1,1
+Fazenda Verde Vale,SP,Barreiras,100910,LT0410ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro130,Limousin,CRV Lagoa,Renata Gomes,IATF 130,0,0,1
+Fazenda Estrela,MG,Niterói,100917,LT0411SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro131,Angus,Alta Genetics,Marcos Pinto,IATF 131,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,100924,LT0412BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro132,Nelore,ABS Pecplan,Joana Mendes,IATF 132,0,0,1
+Fazenda Aurora,RS,Salvador,100931,LT0413DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro133,Hereford,Genex,Carlos Silva,IATF 133,1,1,1
+Fazenda Monte Belo,PR,Campinas,100938,LT0414PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro134,Brangus,CRV Lagoa,Mariana Oliveira,IATF 134,0,0,0
+Fazenda Paraíso,MG,Uberlândia,100945,LT0415ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro135,Charolais,Alta Genetics,Ricardo Santos,IATF 135,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,100952,LT0416SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro136,Senepol,ABS Pecplan,Ana Maria,IATF 136,0,0,1
+Fazenda do Campo,BA,Campinas,100959,LT0417BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,CIDR,1.0 mg,Novormon,400 UI,Touro137,Brahman,Genex,Joana Mendes,IATF 137,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,100966,LT0418DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro138,Canchim,CRV Lagoa,Carlos Silva,IATF 138,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,100973,LT0419PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro139,Simmental,Alta Genetics,Mariana Oliveira,IATF 139,1,1,1
+Fazenda Jardim,RS,Campinas,100980,LT0420ES,Limousin,Primípara precoce,2.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro140,Limousin,ABS Pecplan,Ricardo Santos,IATF 140,0,0,0
+Fazenda Boa Vista,PR,Porto Alegre,100987,LT0421SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro141,Angus,Genex,Joana Mendes,IATF 141,1,1,1
+Fazenda Esperança,MG,Curitiba,100994,LT0422BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro142,Nelore,CRV Lagoa,Carlos Silva,IATF 142,0,0,1
+Fazenda Bela Vista,RJ,Goiânia,101001,LT0423DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro143,Hereford,Alta Genetics,Mariana Oliveira,IATF 143,1,1,0
+Fazenda Sol Nascente,BA,Itumbiara,101008,LT0424PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro144,Brangus,ABS Pecplan,Ricardo Santos,IATF 144,0,0,1
+Fazenda Verde Vale,SP,Belo Horizonte,101015,LT0425ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro145,Charolais,Genex,Ana Maria,IATF 145,1,1,1
+Fazenda Estrela,MG,Barreiras,101022,LT0426SN,Senepol,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro146,Senepol,CRV Lagoa,Patrícia Nunes,IATF 146,0,0,0
+Fazenda Recanto Verde,RJ,Niterói,101029,LT0427BV,Brahman,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro147,Brahman,Alta Genetics,Bruno Almeida,IATF 147,1,1,1
+Fazenda Aurora,RS,Juiz de Fora,101036,LT0428DF,Canchim,Primípara precoce,2.9,0,7 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro148,Canchim,ABS Pecplan,Beatriz Souza,IATF 148,0,0,1
+Fazenda Monte Belo,PR,Salvador,101043,LT0429PA,Simmental,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro149,Simmental,Genex,Lucas Pereira,IATF 149,1,1,1
+Fazenda Paraíso,MG,Campinas,101050,LT0430ES,Limousin,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro150,Limousin,CRV Lagoa,Renata Gomes,IATF 150,0,0,1
+Fazenda Santa Luzia,BA,Salvador,101057,LT0501SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro151,Angus,Genex,Joana Mendes,IATF 151,1,1,1
+Fazenda do Campo,SP,Campinas,101064,LT0502BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro152,Nelore,CRV Lagoa,Carlos Silva,IATF 152,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,101071,LT0503DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro153,Hereford,Alta Genetics,Mariana Oliveira,IATF 153,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,101078,LT0504PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro154,Brangus,ABS Pecplan,Ricardo Santos,IATF 154,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,101085,LT0505ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro155,Charolais,Genex,Ana Maria,IATF 155,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,101092,LT0506SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro156,Senepol,CRV Lagoa,Patrícia Nunes,IATF 156,0,0,0
+Fazenda Esperança,MG,Curitiba,101099,LT0507BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro157,Brahman,Alta Genetics,Bruno Almeida,IATF 157,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,101106,LT0508DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro158,Canchim,ABS Pecplan,Beatriz Souza,IATF 158,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,101113,LT0509PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro159,Simmental,Genex,Lucas Pereira,IATF 159,1,1,1
+Fazenda Verde Vale,SP,Barreiras,101120,LT0510ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro160,Limousin,CRV Lagoa,Renata Gomes,IATF 160,0,0,1
+Fazenda Estrela,MG,Niterói,101127,LT0511SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro161,Angus,Alta Genetics,Marcos Pinto,IATF 161,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,101134,LT0512BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro162,Nelore,ABS Pecplan,Joana Mendes,IATF 162,0,0,1
+Fazenda Aurora,RS,Salvador,101141,LT0513DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro163,Hereford,Genex,Carlos Silva,IATF 163,1,1,1
+Fazenda Monte Belo,PR,Campinas,101148,LT0514PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro164,Brangus,CRV Lagoa,Mariana Oliveira,IATF 164,0,0,0
+Fazenda Paraíso,MG,Uberlândia,101155,LT0515ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro165,Charolais,Alta Genetics,Ricardo Santos,IATF 165,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,101162,LT0516SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro166,Senepol,ABS Pecplan,Ana Maria,IATF 166,0,0,1
+Fazenda do Campo,BA,Campinas,101169,LT0517BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,CIDR,1.0 mg,Novormon,400 UI,Touro167,Brahman,Genex,Joana Mendes,IATF 167,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,101176,LT0518DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro168,Canchim,CRV Lagoa,Carlos Silva,IATF 168,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,101183,LT0519PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro169,Simmental,Alta Genetics,Mariana Oliveira,IATF 169,1,1,1
+Fazenda Jardim,RS,Campinas,101190,LT0520ES,Limousin,Primípara precoce,2.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro170,Limousin,ABS Pecplan,Ricardo Santos,IATF 170,0,0,0
+Fazenda Boa Vista,PR,Porto Alegre,101197,LT0521SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro171,Angus,Genex,Joana Mendes,IATF 171,1,1,1
+Fazenda Esperança,MG,Curitiba,101204,LT0522BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro172,Nelore,CRV Lagoa,Carlos Silva,IATF 172,0,0,1
+Fazenda Bela Vista,RJ,Goiânia,101211,LT0523DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro173,Hereford,Alta Genetics,Mariana Oliveira,IATF 173,1,1,0
+Fazenda Sol Nascente,BA,Itumbiara,101218,LT0524PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro174,Brangus,ABS Pecplan,Ricardo Santos,IATF 174,0,0,1
+Fazenda Verde Vale,SP,Belo Horizonte,101225,LT0525ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro175,Charolais,Genex,Ana Maria,IATF 175,1,1,1
+Fazenda Estrela,MG,Barreiras,101232,LT0526SN,Senepol,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro176,Senepol,CRV Lagoa,Patrícia Nunes,IATF 176,0,0,0
+Fazenda Recanto Verde,RJ,Niterói,101239,LT0527BV,Brahman,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro177,Brahman,Alta Genetics,Bruno Almeida,IATF 177,1,1,1
+Fazenda Aurora,RS,Juiz de Fora,101246,LT0528DF,Canchim,Primípara precoce,2.9,0,7 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro178,Canchim,ABS Pecplan,Beatriz Souza,IATF 178,0,0,1
+Fazenda Monte Belo,PR,Salvador,101253,LT0529PA,Simmental,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro179,Simmental,Genex,Lucas Pereira,IATF 179,1,1,1
+Fazenda Paraíso,MG,Campinas,101260,LT0530ES,Limousin,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro180,Limousin,CRV Lagoa,Renata Gomes,IATF 180,0,0,1
+Fazenda Santa Luzia,BA,Salvador,101267,LT0601SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro181,Angus,Genex,Joana Mendes,IATF 181,1,1,1
+Fazenda do Campo,SP,Campinas,101274,LT0602BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro182,Nelore,CRV Lagoa,Carlos Silva,IATF 182,0,0,1
+Fazenda Nova Vida,MG,Uberlândia,101281,LT0603DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro183,Hereford,Alta Genetics,Mariana Oliveira,IATF 183,1,1,0
+Fazenda da Serra,RJ,Rio de Janeiro,101288,LT0604PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro184,Brangus,ABS Pecplan,Ricardo Santos,IATF 184,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,101295,LT0605ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,Estrumate,0.6 mg,eCGEN,200 UI,Touro185,Charolais,Genex,Ana Maria,IATF 185,1,1,1
+Fazenda Boa Vista,PR,Porto Alegre,101302,LT0606SN,Senepol,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Ciosin,1.0 mg,Novormon,400 UI,Touro186,Senepol,CRV Lagoa,Patrícia Nunes,IATF 186,0,0,0
+Fazenda Esperança,MG,Curitiba,101309,LT0607BV,Brahman,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro187,Brahman,Alta Genetics,Bruno Almeida,IATF 187,1,1,1
+Fazenda Bela Vista,RJ,Goiânia,101316,LT0608DF,Canchim,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro188,Canchim,ABS Pecplan,Beatriz Souza,IATF 188,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,101323,LT0609PA,Simmental,Primípara,2.1,1,9 dias,CIDR,Bayer,1,0,1,CIDR,0.5 mg,Folligon,300 UI,Touro189,Simmental,Genex,Lucas Pereira,IATF 189,1,1,1
+Fazenda Verde Vale,SP,Barreiras,101330,LT0610ES,Limousin,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro190,Limousin,CRV Lagoa,Renata Gomes,IATF 190,0,0,1
+Fazenda Estrela,MG,Niterói,101337,LT0611SN,Angus,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,1+1,1,Repro one,1.0 mg,Novormon,400 UI,Touro191,Angus,Alta Genetics,Marcos Pinto,IATF 191,1,1,0
+Fazenda Recanto Verde,RJ,Juiz de Fora,101344,LT0612BV,Nelore,Primípara precoce,3.1,0,9 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro192,Nelore,ABS Pecplan,Joana Mendes,IATF 192,0,0,1
+Fazenda Aurora,RS,Salvador,101351,LT0613DF,Hereford,Primípara,3.3,1,7 dias,CIDR,Bayer,1,1,1,CIDR,0.6 mg,eCGEN,200 UI,Touro193,Hereford,Genex,Carlos Silva,IATF 193,1,1,1
+Fazenda Monte Belo,PR,Campinas,101358,LT0614PA,Brangus,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro194,Brangus,CRV Lagoa,Mariana Oliveira,IATF 194,0,0,0
+Fazenda Paraíso,MG,Uberlândia,101365,LT0615ES,Charolais,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro195,Charolais,Alta Genetics,Ricardo Santos,IATF 195,1,1,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,101372,LT0616SN,Senepol,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro196,Senepol,ABS Pecplan,Ana Maria,IATF 196,0,0,1
+Fazenda do Campo,BA,Campinas,101379,LT0617BV,Brahman,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,CIDR,1.0 mg,Novormon,400 UI,Touro197,Brahman,Genex,Joana Mendes,IATF 197,1,1,0
+Fazenda Nova Vida,SP,Uberlândia,101386,LT0618DF,Canchim,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro198,Canchim,CRV Lagoa,Carlos Silva,IATF 198,0,0,1
+Fazenda da Serra,MG,Rio de Janeiro,101393,LT0619PA,Simmental,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro199,Simmental,Alta Genetics,Mariana Oliveira,IATF 199,1,1,1
+Fazenda Jardim,RS,Campinas,101400,LT0620ES,Limousin,Primípara precoce,2.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro200,Limousin,ABS Pecplan,Ricardo Santos,IATF 200,0,0,0
+Fazenda Boa Vista,PR,Porto Alegre,101407,LT0621SN,Angus,Primípara,3.3,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro201,Angus,Genex,Joana Mendes,IATF 201,1,1,1
+Fazenda Esperança,MG,Curitiba,101414,LT0622BV,Nelore,Multípara,3.5,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro202,Nelore,CRV Lagoa,Carlos Silva,IATF 202,0,0,1
+Fazenda Bela Vista,RJ,Goiânia,101421,LT0623DF,Hereford,Secundípara,3.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro203,Hereford,Alta Genetics,Mariana Oliveira,IATF 203,1,1,0
+Fazenda Sol Nascente,BA,Itumbiara,101428,LT0624PA,Brangus,Primípara precoce,3.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro204,Brangus,ABS Pecplan,Ricardo Santos,IATF 204,0,0,1
+Fazenda Verde Vale,SP,Belo Horizonte,101435,LT0625ES,Charolais,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro205,Charolais,Genex,Ana Maria,IATF 205,1,1,1
+Fazenda Estrela,MG,Barreiras,101442,LT0626SN,Senepol,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro206,Senepol,CRV Lagoa,Patrícia Nunes,IATF 206,0,0,0
+Fazenda Recanto Verde,RJ,Niterói,101449,LT0627BV,Brahman,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro207,Brahman,Alta Genetics,Bruno Almeida,IATF 207,1,1,1
+Fazenda Aurora,RS,Juiz de Fora,101456,LT0628DF,Canchim,Primípara precoce,2.9,0,7 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro208,Canchim,ABS Pecplan,Beatriz Souza,IATF 208,0,0,1
+Fazenda Monte Belo,PR,Salvador,101463,LT0629PA,Simmental,Primípara,3.3,1,8 dias,CIDR,Bayer,1,1,1,CIDR,1.0 mg,Novormon,400 UI,Touro209,Simmental,Genex,Lucas Pereira,IATF 209,1,1,1
+Fazenda Paraíso,MG,Campinas,101470,LT0630ES,Limousin,Multípara,3.5,0,9 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro210,Limousin,CRV Lagoa,Renata Gomes,IATF 210,0,0,1
+Fazenda Santa Luzia,RJ,Rio de Janeiro,101477,LT0631SN,Angus,Secundípara,3.7,1,7 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.6 mg,eCGEN,200 UI,Touro211,Angus,Alta Genetics,Marcos Pinto,IATF 211,1,1,0
+Fazenda do Campo,BA,Campinas,101484,LT0632BV,Nelore,Primípara precoce,3.9,0,8 dias,Fertilcare 600,MSD,0,0,2,Fertilcare 600,1.0 mg,Novormon,400 UI,Touro212,Nelore,ABS Pecplan,Joana Mendes,IATF 212,0,0,1
+Fazenda Nova Vida,SP,Uberlândia,101491,LT0633DF,Hereford,Primípara,2.1,1,9 dias,CIDR,Bayer,1,1,1,CIDR,0.5 mg,Folligon,300 UI,Touro213,Hereford,Genex,Carlos Silva,IATF 213,1,1,1
+Fazenda da Serra,MG,Rio de Janeiro,101498,LT0634PA,Brangus,Multípara,2.3,0,7 dias,Primer monodose,Agener,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro214,Brangus,CRV Lagoa,Mariana Oliveira,IATF 214,0,0,1
+Fazenda Jardim,RS,Belo Horizonte,101505,LT0635ES,Charolais,Secundípara,2.7,1,8 dias,Repro one,Globalgen,1,0,1,Repro one,1.0 mg,Novormon,400 UI,Touro215,Charolais,Alta Genetics,Ricardo Santos,IATF 215,1,1,0
+Fazenda Boa Vista,PR,Porto Alegre,101512,LT0636SN,Senepol,Primípara precoce,2.9,0,9 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.5 mg,Folligon,300 UI,Touro216,Senepol,ABS Pecplan,Ana Maria,IATF 216,0,0,1
+Fazenda Esperança,MG,Curitiba,101519,LT0637BV,Brahman,Primípara,3.3,1,7 dias,CIDR,Bayer,1,0,1,CIDR,0.6 mg,eCGEN,200 UI,Touro217,Brahman,Genex,Joana Mendes,IATF 217,1,1,0
+Fazenda Bela Vista,RJ,Goiânia,101526,LT0638DF,Canchim,Multípara,3.5,0,8 dias,Primer monodose,Agener,0,1,2,Primer monodose,1.0 mg,Novormon,400 UI,Touro218,Canchim,CRV Lagoa,Carlos Silva,IATF 218,0,0,1
+Fazenda Sol Nascente,BA,Itumbiara,101533,LT0639PA,Simmental,Secundípara,3.7,1,9 dias,Repro one,Globalgen,1,1+1,1,Repro one,0.5 mg,Folligon,300 UI,Touro219,Simmental,Alta Genetics,Mariana Oliveira,IATF 219,1,1,1
+Fazenda Verde Vale,SP,Barreiras,101540,LT0640ES,Limousin,Primípara precoce,3.9,0,7 dias,Fertilcare 600,MSD,0,1,2,Fertilcare 600,0.6 mg,eCGEN,200 UI,Touro220,Limousin,ABS Pecplan,Ricardo Santos,IATF 220,0,0,1
+Fazenda Santa Luzia,BA,Salvador,101547,LT0701SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro221,Nelore,Genex,Joana Mendes,IATF 221,1,1,1
+Fazenda do Campo,SP,Campinas,101554,LT0702BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro222,Hereford,CRV Lagoa,Carlos Silva,IATF 222,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101561,LT0703DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro223,Brangus,Alta Genetics,Mariana Oliveira,IATF 223,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101568,LT0704PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro224,Charolais,ABS Pecplan,Ricardo Santos,IATF 224,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101575,LT0705ES,Charolais,Primípara,3.3,1,7 dias,CIDR,Bayer,1,0,1,Primer monodose,0.5 mg,Folligon,300 UI,Touro225,Senepol,Genex,Ana Maria,IATF 225,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101582,LT0706SN,Angus,Primípara,2.1,1,8 dias,Primer monodose,Agener,1,0,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro226,Brahman,CRV Lagoa,Joana Mendes,IATF 226,1,1,1
+Fazenda do Campo,SP,Campinas,101589,LT0707BV,Nelore,Multípara,2.3,0,9 dias,Repro one,Globalgen,0,1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro227,Angus,Alta Genetics,Carlos Silva,IATF 227,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101596,LT0708DF,Hereford,Secundípara,2.7,1,7 dias,Fertilcare 600,MSD,1,0,1+1,Lutalise,0.5 mg,Folligon,300 UI,Touro228,Nelore,ABS Pecplan,Mariana Oliveira,IATF 228,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101603,LT0709PA,Brangus,Primípara precoce,3.1,0,8 dias,CIDR,Bayer,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro229,Hereford,Genex,Ricardo Santos,IATF 229,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101610,LT0710ES,Charolais,Primípara,3.3,1,9 dias,Primer monodose,Agener,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro230,Brangus,CRV Lagoa,Ana Maria,IATF 230,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101617,LT0711SN,Angus,Primípara,2.1,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro231,Charolais,Alta Genetics,Joana Mendes,IATF 231,1,1,1
+Fazenda do Campo,SP,Campinas,101624,LT0712BV,Nelore,Multípara,2.3,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro232,Senepol,ABS Pecplan,Carlos Silva,IATF 232,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101631,LT0713DF,Hereford,Secundípara,2.7,1,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro233,Brahman,Genex,Mariana Oliveira,IATF 233,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101638,LT0714PA,Brangus,Primípara precoce,3.1,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro234,Angus,CRV Lagoa,Ricardo Santos,IATF 234,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101645,LT0715ES,Charolais,Primípara,3.3,1,8 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro235,Hereford,Alta Genetics,Ana Maria,IATF 235,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101652,LT0716SN,Angus,Primípara,2.1,1,9 dias,Fertilcare 600,MSD,0,1,2,Lutalise,0.5 mg,Folligon,300 UI,Touro236,Nelore,ABS Pecplan,Joana Mendes,IATF 236,1,1,1
+Fazenda do Campo,SP,Campinas,101659,LT0717BV,Nelore,Multípara,2.3,0,7 dias,CIDR,Bayer,1,0,1,Primer monodose,0.6 mg,eCGEN,200 UI,Touro237,Hereford,Genex,Carlos Silva,IATF 237,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101666,LT0718DF,Hereford,Secundípara,2.7,1,8 dias,Primer monodose,Agener,0,1,2,Repro one,1.0 mg,Novormon,400 UI,Touro238,Brangus,CRV Lagoa,Mariana Oliveira,IATF 238,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101673,LT0719PA,Brangus,Primípara precoce,3.1,0,9 dias,Repro one,Globalgen,1,0,1+1,Lutalise,0.5 mg,Folligon,300 UI,Touro239,Charolais,Alta Genetics,Ricardo Santos,IATF 239,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101680,LT0720ES,Charolais,Primípara,3.3,1,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro240,Senepol,ABS Pecplan,Ana Maria,IATF 240,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101687,LT0721SN,Angus,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro241,Brahman,Genex,Joana Mendes,IATF 241,1,1,1
+Fazenda do Campo,SP,Campinas,101694,LT0722BV,Nelore,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro242,Angus,CRV Lagoa,Carlos Silva,IATF 242,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101701,LT0723DF,Hereford,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro243,Nelore,Alta Genetics,Mariana Oliveira,IATF 243,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101708,LT0724PA,Brangus,Primípara precoce,3.1,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro244,Hereford,ABS Pecplan,Ricardo Santos,IATF 244,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101715,LT0725ES,Charolais,Primípara,3.3,1,9 dias,CIDR,Bayer,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro245,Brangus,Genex,Ana Maria,IATF 245,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101722,LT0726SN,Angus,Primípara,2.1,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro246,Charolais,CRV Lagoa,Joana Mendes,IATF 246,1,1,1
+Fazenda do Campo,SP,Campinas,101729,LT0727BV,Nelore,Multípara,2.3,0,8 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro247,Senepol,Alta Genetics,Carlos Silva,IATF 247,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101736,LT0728DF,Hereford,Secundípara,2.7,1,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.5 mg,Folligon,300 UI,Touro248,Brahman,ABS Pecplan,Mariana Oliveira,IATF 248,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101743,LT0729PA,Brangus,Primípara precoce,3.1,0,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro249,Angus,Genex,Ricardo Santos,IATF 249,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101750,LT0730ES,Charolais,Primípara,3.3,1,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro250,Hereford,CRV Lagoa,Ana Maria,IATF 250,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101757,LT0731SN,Angus,Primípara,2.1,1,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro251,Brangus,Alta Genetics,Joana Mendes,IATF 251,1,1,1
+Fazenda do Campo,SP,Campinas,101764,LT0732BV,Nelore,Multípara,2.3,0,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro252,Charolais,ABS Pecplan,Carlos Silva,IATF 252,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101771,LT0733DF,Hereford,Secundípara,2.7,1,8 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro253,Senepol,Genex,Mariana Oliveira,IATF 253,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101778,LT0734PA,Brangus,Primípara precoce,3.1,0,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro254,Brahman,CRV Lagoa,Ricardo Santos,IATF 254,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101785,LT0735ES,Charolais,Primípara,3.3,1,7 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro255,Angus,Alta Genetics,Ana Maria,IATF 255,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101792,LT0736SN,Angus,Primípara,2.1,1,8 dias,Fertilcare 600,MSD,0,1,2,Lutalise,0.5 mg,Folligon,300 UI,Touro256,Nelore,ABS Pecplan,Joana Mendes,IATF 256,1,1,1
+Fazenda do Campo,SP,Campinas,101799,LT0737BV,Nelore,Multípara,2.3,0,9 dias,CIDR,Bayer,1,0,1,Primer monodose,0.6 mg,eCGEN,200 UI,Touro257,Hereford,Genex,Carlos Silva,IATF 257,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101806,LT0738DF,Hereford,Secundípara,2.7,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro258,Brangus,CRV Lagoa,Mariana Oliveira,IATF 258,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101813,LT0739PA,Brangus,Primípara precoce,3.1,0,8 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro259,Charolais,Alta Genetics,Ricardo Santos,IATF 259,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101820,LT0740ES,Charolais,Primípara,3.3,1,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro260,Senepol,ABS Pecplan,Ana Maria,IATF 260,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101827,LT0741SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro261,Brahman,Genex,Joana Mendes,IATF 261,1,1,1
+Fazenda do Campo,SP,Campinas,101834,LT0742BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro262,Angus,CRV Lagoa,Carlos Silva,IATF 262,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101841,LT0743DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro263,Nelore,Alta Genetics,Mariana Oliveira,IATF 263,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101848,LT0744PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro264,Hereford,ABS Pecplan,Ricardo Santos,IATF 264,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101855,LT0745ES,Charolais,Primípara,3.3,1,8 dias,CIDR,Bayer,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro265,Brangus,Genex,Ana Maria,IATF 265,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101862,LT0746SN,Angus,Primípara,2.1,1,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro266,Charolais,CRV Lagoa,Joana Mendes,IATF 266,1,1,1
+Fazenda do Campo,SP,Campinas,101869,LT0747BV,Nelore,Multípara,2.3,0,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro267,Senepol,Alta Genetics,Carlos Silva,IATF 267,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101876,LT0748DF,Hereford,Secundípara,2.7,1,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro268,Brahman,ABS Pecplan,Mariana Oliveira,IATF 268,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101883,LT0749PA,Brangus,Primípara precoce,3.1,0,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro269,Angus,Genex,Ricardo Santos,IATF 269,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101890,LT0750ES,Charolais,Primípara,3.3,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro270,Hereford,CRV Lagoa,Ana Maria,IATF 270,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101897,LT0801SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro271,Nelore,Genex,Joana Mendes,IATF 271,1,1,1
+Fazenda do Campo,SP,Campinas,101904,LT0802BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro272,Hereford,CRV Lagoa,Carlos Silva,IATF 272,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101911,LT0803DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro273,Brangus,Alta Genetics,Mariana Oliveira,IATF 273,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101918,LT0804PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro274,Charolais,ABS Pecplan,Ricardo Santos,IATF 274,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101925,LT0805ES,Charolais,Primípara,3.3,1,7 dias,CIDR,Bayer,1,0,1,Primer monodose,0.5 mg,Folligon,300 UI,Touro275,Senepol,Genex,Ana Maria,IATF 275,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101932,LT0806SN,Angus,Primípara,2.1,1,8 dias,Primer monodose,Agener,1,0,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro276,Brahman,CRV Lagoa,Joana Mendes,IATF 276,1,1,1
+Fazenda do Campo,SP,Campinas,101939,LT0807BV,Nelore,Multípara,2.3,0,9 dias,Repro one,Globalgen,0,1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro277,Angus,Alta Genetics,Carlos Silva,IATF 277,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101946,LT0808DF,Hereford,Secundípara,2.7,1,7 dias,Fertilcare 600,MSD,1,0,1+1,Lutalise,0.5 mg,Folligon,300 UI,Touro278,Nelore,ABS Pecplan,Mariana Oliveira,IATF 278,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101953,LT0809PA,Brangus,Primípara precoce,3.1,0,8 dias,CIDR,Bayer,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro279,Hereford,Genex,Ricardo Santos,IATF 279,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101960,LT0810ES,Charolais,Primípara,3.3,1,9 dias,Primer monodose,Agener,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro280,Brangus,CRV Lagoa,Ana Maria,IATF 280,1,1,1
+Fazenda Santa Luzia,BA,Salvador,101967,LT0811SN,Angus,Primípara,2.1,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro281,Charolais,Alta Genetics,Joana Mendes,IATF 281,1,1,1
+Fazenda do Campo,SP,Campinas,101974,LT0812BV,Nelore,Multípara,2.3,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro282,Senepol,ABS Pecplan,Carlos Silva,IATF 282,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,101981,LT0813DF,Hereford,Secundípara,2.7,1,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro283,Brahman,Genex,Mariana Oliveira,IATF 283,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,101988,LT0814PA,Brangus,Primípara precoce,3.1,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro284,Angus,CRV Lagoa,Ricardo Santos,IATF 284,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,101995,LT0815ES,Charolais,Primípara,3.3,1,8 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro285,Hereford,Alta Genetics,Ana Maria,IATF 285,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102002,LT0816SN,Angus,Primípara,2.1,1,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro286,Brangus,ABS Pecplan,Joana Mendes,IATF 286,1,1,1
+Fazenda do Campo,SP,Campinas,102009,LT0817BV,Nelore,Multípara,2.3,0,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro287,Charolais,Genex,Carlos Silva,IATF 287,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102016,LT0818DF,Hereford,Secundípara,2.7,1,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro288,Senepol,CRV Lagoa,Mariana Oliveira,IATF 288,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102023,LT0819PA,Brangus,Primípara precoce,3.1,0,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro289,Brahman,Alta Genetics,Ricardo Santos,IATF 289,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102030,LT0820ES,Charolais,Primípara,3.3,1,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro290,Angus,ABS Pecplan,Ana Maria,IATF 290,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102037,LT0821SN,Angus,Primípara,2.1,1,8 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro291,Nelore,Genex,Joana Mendes,IATF 291,1,1,1
+Fazenda do Campo,SP,Campinas,102044,LT0822BV,Nelore,Multípara,2.3,0,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro292,Hereford,CRV Lagoa,Carlos Silva,IATF 292,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102051,LT0823DF,Hereford,Secundípara,2.7,1,7 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro293,Brangus,Alta Genetics,Mariana Oliveira,IATF 293,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102058,LT0824PA,Brangus,Primípara precoce,3.1,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro294,Charolais,ABS Pecplan,Ricardo Santos,IATF 294,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102065,LT0825ES,Charolais,Primípara,3.3,1,9 dias,CIDR,Bayer,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro295,Senepol,Genex,Ana Maria,IATF 295,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102072,LT0826SN,Angus,Primípara,2.1,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro296,Brahman,CRV Lagoa,Joana Mendes,IATF 296,1,1,1
+Fazenda do Campo,SP,Campinas,102079,LT0827BV,Nelore,Multípara,2.3,0,8 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro297,Angus,Alta Genetics,Carlos Silva,IATF 297,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102086,LT0828DF,Hereford,Secundípara,2.7,1,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro298,Nelore,ABS Pecplan,Mariana Oliveira,IATF 298,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102093,LT0829PA,Brangus,Primípara precoce,3.1,0,7 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro299,Hereford,Genex,Ricardo Santos,IATF 299,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102100,LT0830ES,Charolais,Primípara,3.3,1,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro300,Brangus,CRV Lagoa,Ana Maria,IATF 300,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102107,LT0901SN,Angus,Primípara,2.1,1,7 dias,CIDR,Bayer,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro321,Nelore,Genex,Joana Mendes,IATF 321,1,1,1
+Fazenda do Campo,SP,Campinas,102114,LT0902BV,Nelore,Multípara,2.3,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro322,Hereford,CRV Lagoa,Carlos Silva,IATF 322,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102121,LT0903DF,Hereford,Secundípara,2.7,1,9 dias,Repro one,Globalgen,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro323,Brangus,Alta Genetics,Mariana Oliveira,IATF 323,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102128,LT0904PA,Brangus,Primípara precoce,3.1,0,7 dias,Fertilcare 600,MSD,0,0,2,Lutalise,0.5 mg,Folligon,300 UI,Touro324,Charolais,ABS Pecplan,Ricardo Santos,IATF 324,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102135,LT0905ES,Charolais,Primípara,3.3,1,7 dias,CIDR,Bayer,1,0,1,Primer monodose,0.5 mg,Folligon,300 UI,Touro325,Senepol,Genex,Ana Maria,IATF 325,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102142,LT0906SN,Angus,Primípara,2.1,1,8 dias,Primer monodose,Agener,1,0,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro326,Brahman,CRV Lagoa,Joana Mendes,IATF 326,1,1,1
+Fazenda do Campo,SP,Campinas,102149,LT0907BV,Nelore,Multípara,2.3,0,9 dias,Repro one,Globalgen,0,1,1,Ciosin,1.0 mg,Novormon,400 UI,Touro327,Angus,Alta Genetics,Carlos Silva,IATF 327,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102156,LT0908DF,Hereford,Secundípara,2.7,1,7 dias,Fertilcare 600,MSD,1,0,1+1,Lutalise,0.5 mg,Folligon,300 UI,Touro328,Nelore,ABS Pecplan,Mariana Oliveira,IATF 328,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102163,LT0909PA,Brangus,Primípara precoce,3.1,0,8 dias,CIDR,Bayer,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro329,Hereford,Genex,Ricardo Santos,IATF 329,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102170,LT0910ES,Charolais,Primípara,3.3,1,9 dias,Primer monodose,Agener,1,0,1,Repro one,0.5 mg,Folligon,300 UI,Touro330,Brangus,CRV Lagoa,Ana Maria,IATF 330,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102177,LT0911SN,Angus,Primípara,2.1,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro331,Charolais,Alta Genetics,Joana Mendes,IATF 331,1,1,1
+Fazenda do Campo,SP,Campinas,102184,LT0912BV,Nelore,Multípara,2.3,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro332,Senepol,ABS Pecplan,Carlos Silva,IATF 332,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102191,LT0913DF,Hereford,Secundípara,2.7,1,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro333,Brahman,Genex,Mariana Oliveira,IATF 333,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102198,LT0914PA,Brangus,Primípara precoce,3.1,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro334,Angus,CRV Lagoa,Ricardo Santos,IATF 334,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102205,LT0915ES,Charolais,Primípara,3.3,1,8 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro335,Hereford,Alta Genetics,Ana Maria,IATF 335,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102212,LT0916SN,Angus,Primípara,2.1,1,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro336,Brangus,ABS Pecplan,Joana Mendes,IATF 336,1,1,1
+Fazenda do Campo,SP,Campinas,102219,LT0917BV,Nelore,Multípara,2.3,0,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro337,Charolais,Genex,Carlos Silva,IATF 337,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102226,LT0918DF,Hereford,Secundípara,2.7,1,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro338,Senepol,CRV Lagoa,Mariana Oliveira,IATF 338,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102233,LT0919PA,Brangus,Primípara precoce,3.1,0,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro339,Brahman,Alta Genetics,Ricardo Santos,IATF 339,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102240,LT0920ES,Charolais,Primípara,3.3,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro340,Angus,ABS Pecplan,Ana Maria,IATF 340,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102247,LT0921SN,Angus,Primípara,2.1,1,8 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro341,Nelore,Genex,Joana Mendes,IATF 341,1,1,1
+Fazenda do Campo,SP,Campinas,102254,LT0922BV,Nelore,Multípara,2.3,0,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro342,Hereford,CRV Lagoa,Carlos Silva,IATF 342,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102261,LT0923DF,Hereford,Secundípara,2.7,1,7 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro343,Brangus,Alta Genetics,Mariana Oliveira,IATF 343,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102268,LT0924PA,Brangus,Primípara precoce,3.1,0,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro344,Charolais,ABS Pecplan,Ricardo Santos,IATF 344,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102275,LT0925ES,Charolais,Primípara,3.3,1,9 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro345,Senepol,Genex,Ana Maria,IATF 345,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102282,LT0926SN,Angus,Primípara,2.1,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro346,Brahman,CRV Lagoa,Joana Mendes,IATF 346,1,1,1
+Fazenda do Campo,SP,Campinas,102289,LT0927BV,Nelore,Multípara,2.3,0,8 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro347,Angus,Alta Genetics,Carlos Silva,IATF 347,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102296,LT0928DF,Hereford,Secundípara,2.7,1,9 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro348,Nelore,ABS Pecplan,Mariana Oliveira,IATF 348,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102303,LT0929PA,Brangus,Primípara precoce,3.1,0,7 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro349,Hereford,Genex,Ricardo Santos,IATF 349,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102310,LT0930ES,Charolais,Primípara,3.3,1,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro350,Brangus,CRV Lagoa,Ana Maria,IATF 350,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102317,LT0931SN,Angus,Primípara,2.1,1,9 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro351,Charolais,Alta Genetics,Joana Mendes,IATF 351,1,1,1
+Fazenda do Campo,SP,Campinas,102324,LT0932BV,Nelore,Multípara,2.3,0,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro352,Senepol,ABS Pecplan,Carlos Silva,IATF 352,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102331,LT0933DF,Hereford,Secundípara,2.7,1,8 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro353,Brahman,Genex,Mariana Oliveira,IATF 353,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102338,LT0934PA,Brangus,Primípara precoce,3.1,0,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro354,Angus,CRV Lagoa,Ricardo Santos,IATF 354,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102345,LT0935ES,Charolais,Primípara,3.3,1,7 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro355,Hereford,Alta Genetics,Ana Maria,IATF 355,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102352,LT0936SN,Angus,Primípara,2.1,1,8 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro356,Brangus,ABS Pecplan,Joana Mendes,IATF 356,1,1,1
+Fazenda do Campo,SP,Campinas,102359,LT0937BV,Nelore,Multípara,2.3,0,9 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro357,Charolais,Genex,Carlos Silva,IATF 357,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102366,LT0938DF,Hereford,Secundípara,2.7,1,7 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro358,Senepol,CRV Lagoa,Mariana Oliveira,IATF 358,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102373,LT0939PA,Brangus,Primípara precoce,3.1,0,8 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro359,Brahman,Alta Genetics,Ricardo Santos,IATF 359,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102380,LT0940ES,Charolais,Primípara,3.3,1,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro360,Angus,ABS Pecplan,Ana Maria,IATF 360,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102387,LT0941SN,Angus,Primípara,2.1,1,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro361,Nelore,Genex,Joana Mendes,IATF 361,1,1,1
+Fazenda do Campo,SP,Campinas,102394,LT0942BV,Nelore,Multípara,2.3,0,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro362,Hereford,CRV Lagoa,Carlos Silva,IATF 362,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102401,LT0943DF,Hereford,Secundípara,2.7,1,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro363,Brangus,Alta Genetics,Mariana Oliveira,IATF 363,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102408,LT0944PA,Brangus,Primípara precoce,3.1,0,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro364,Charolais,ABS Pecplan,Ricardo Santos,IATF 364,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102415,LT0945ES,Charolais,Primípara,3.3,1,8 dias,Repro one,Globalgen,1,0,1,Ciosin,1.0 mg,Folligon,300 UI,Touro365,Senepol,Genex,Ana Maria,IATF 365,1,1,1
+Fazenda Santa Luzia,BA,Salvador,102422,LT0946SN,Angus,Primípara,2.1,1,9 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro366,Brahman,CRV Lagoa,Joana Mendes,IATF 366,1,1,1
+Fazenda do Campo,SP,Campinas,102429,LT0947BV,Nelore,Multípara,2.3,0,7 dias,Repro one,Globalgen,1,0,1,Lutalise,0.5 mg,Folligon,300 UI,Touro367,Angus,Alta Genetics,Carlos Silva,IATF 367,0,0,0
+Fazenda Nova Vida,MG,Uberlândia,102436,LT0948DF,Hereford,Secundípara,2.7,1,8 dias,Fertilcare 600,MSD,0,1,2,Primer monodose,0.6 mg,eCGEN,200 UI,Touro368,Nelore,ABS Pecplan,Mariana Oliveira,IATF 368,1,1,1
+Fazenda da Serra,RJ,Rio de Janeiro,102443,LT0949PA,Brangus,Primípara precoce,3.1,0,9 dias,CIDR,Bayer,1,0,1+1,Ciosin,1.0 mg,Novormon,400 UI,Touro369,Hereford,Genex,Ricardo Santos,IATF 369,0,0,0
+Fazenda Jardim,RS,Belo Horizonte,102450,LT0950ES,Charolais,Primípara,3.3,1,7 dias,Primer monodose,Agener,0,1,2,Estrumate,0.6 mg,eCGEN,200 UI,Touro370,Brangus,CRV Lagoa,Ana Maria,IATF 370,1,1,1
+
