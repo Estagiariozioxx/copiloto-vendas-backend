@@ -23,10 +23,6 @@ def get_db_connection():
 def create_tables():
     conn = get_db_connection()
     cursor = conn.cursor()
-
-
-
-
     # Criando a tabela "inseminacao" baseada na estrutura da planilha
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS inseminacao (

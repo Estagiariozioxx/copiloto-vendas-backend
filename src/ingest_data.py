@@ -13,10 +13,14 @@ with open(file_path, mode='r', encoding='utf-8-sig') as csvfile:
 
 
 # Imprimir os nomes das colunas e as primeiras 5 linhas para depuração
+"""
 print("Colunas lidas do CSV:", reader.fieldnames)
 print("Primeiras linhas do CSV:")
 for row in rows[:5]:
     print(row)
+
+"""
+
     
 
 # Função para renomear chaves conforme necessário
@@ -48,7 +52,7 @@ def insert_into_mysql():
     else:
         for row in rows:
             # Imprimir a linha completa para depuração
-            print("Inserindo linha:", row)
+           # print("Inserindo linha:", row)
             try:
                 # Realiza as conversões necessárias
                 ecc = float(row["ECC"])
