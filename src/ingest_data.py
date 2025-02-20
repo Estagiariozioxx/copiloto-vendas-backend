@@ -74,7 +74,7 @@ def insert_into_mysql():
                     fazenda, estado, municipio, numero_animal, lote, raca, categoria, ecc, 
                     ciclicidade, protocolo, implante_p4, empresa, grhh_na_ia, pgf_no_do, 
                     dose_pgf_retirada, marca_pgf_retirada, dose_ce, ecg, dose_ecg, touro, 
-                    raca_touro, empresa_touro, inseminador, numero_iate, dg, vazia_com_ou_sem_cl, perda
+                    raca_touro, empresa_touro, inseminador, numero_iatf, dg, vazia_com_ou_sem_cl, perda
                 ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             """, (
                 row["FAZENDA"],

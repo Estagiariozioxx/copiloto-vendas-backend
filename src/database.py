@@ -50,7 +50,7 @@ def create_tables():
             raca_touro VARCHAR(50),
             empresa_touro VARCHAR(100),
             inseminador VARCHAR(100),
-            numero_iate VARCHAR(50),
+            numero_iatf VARCHAR(50),
             dg INT,
             vazia_com_ou_sem_cl INT,
             perda INT
