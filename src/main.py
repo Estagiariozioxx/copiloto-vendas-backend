@@ -70,33 +70,102 @@ You are an expert SQL developer. Below is the structure of the table 'inseminaca
 - vazia_com_ou_sem_cl: Indicator if the cow is empty with/without corpus luteum (0 or 1).
 - perda: Gestation loss indicator (0 or 1).
 
-Based on the user's question: "{user_query}", generate a valid SQL SELECT query that retrieves the most relevant records from the table "inseminacao". Return only the SQL query without any additional explanation.
+Based on the user's question: "{user_query}", generate a valid SQL SELECT query that retrieves only the necessary columns to answer the question. **Do not use "SELECT *" unless there is absolutely no alternative.** Return only the SQL query without any additional explanation.
 """
-    llm_for_sql = ChatOpenAI(temperature=0.0, model_name="gpt-3.5-turbo")
+    llm_for_sql = ChatOpenAI(temperature=0.0, model_name="gpt-4")
     messages = [SystemMessage(content=prompt)]
     sql_response = llm_for_sql(messages)
     return sql_response.content.strip()
 
 # Função para executar a consulta SQL gerada e formatar os resultados
+def parse_selected_columns(sql_query: str) -> list:
+    """
+    Extrai as colunas selecionadas do trecho entre SELECT e FROM.
+    Retorna uma lista com o nome de cada coluna, sem alias ou prefixos de tabela.
+    Exemplo:
+        SELECT fazenda, municipio, raca AS breed FROM inseminacao
+        -> ["fazenda", "municipio", "raca"]
+    """
+    # Converte tudo para minúsculas para facilitar busca
+    lower_query = sql_query.lower()
+
+    # Acha onde começa o SELECT e onde começa o FROM
+    # (abordagem simples, não lida com subselects)
+    select_index = lower_query.find("select")
+    from_index = lower_query.find("from")
+
+    if select_index == -1 or from_index == -1 or from_index < select_index:
+        # Se não encontrar SELECT ou FROM, ou estiverem fora de ordem, devolve lista vazia
+        return []
+
+    # Extrai o trecho que fica entre SELECT e FROM
+    select_part = sql_query[select_index + len("select"):from_index].strip()
+
+    # Se contiver '*', significa que o modelo pediu todas as colunas
+    if "*" in select_part:
+        # Se preferir retornar todas as colunas, faça um describe na tabela
+        # ou simplesmente retorne uma lista com todas as colunas da tabela.
+        # Aqui, para exemplo, vamos retornar vazio para indicar "todas".
+        return []
+
+    # Separamos por vírgula, pois cada coluna deve estar separada por vírgula
+    raw_columns = select_part.split(",")
+
+    parsed_cols = []
+    for col in raw_columns:
+        col = col.strip()
+        # Remove possíveis aliases "AS nome_alias"
+        # Ex.: "raca as breed" -> "raca"
+        # Também remove referência à tabela "inseminacao.raca" -> "raca"
+        # Abordagem simples (pode falhar em casos complexos)
+        if " as " in col.lower():
+            col = col.lower().split(" as ")[0].strip()
+        if "." in col:
+            col = col.split(".")[-1].strip()
+        parsed_cols.append(col)
+
+    # parsed_cols pode conter algo como ["fazenda", "municipio", "raca"]
+    return parsed_cols
+
 def execute_sql_query(sql_query: str) -> str:
     try:
+        # 1. Extrair as colunas selecionadas
+        selected_cols = parse_selected_columns(sql_query)
+
+        # 2. Executar a consulta
         conn = get_db_connection()
         cursor = conn.cursor(dictionary=True)
         cursor.execute(sql_query)
         rows = cursor.fetchall()
         cursor.close()
         conn.close()
+
+        # Se não retornou nada, informe
+        if not rows:
+            return "Nenhum registro encontrado."
+
+        # 3. Se selected_cols estiver vazio, interpretamos como 'todas as colunas'
+        #    (pode acontecer se a LLM usar SELECT * ou se parse_selected_columns falhar)
+        if not selected_cols:
+            # Se preferir, retorne todas as chaves que aparecem no primeiro row
+            selected_cols = list(rows[0].keys())
+
+        # 4. Montar a string final, exibindo somente as colunas selecionadas
         results = ""
         for row in rows:
-            results += (
-                f"Fazenda: {row.get('fazenda', 'N/A')}, Município: {row.get('municipio', 'N/A')}, "
-                f"Raça: {row.get('raca', 'N/A')}, Categoria: {row.get('categoria', 'N/A')}, "
-                f"Protocolo: {row.get('protocolo', 'N/A')}\n"
-            )
-        return results if results else "Nenhum registro encontrado."
+            line_parts = []
+            for col in selected_cols:
+                # row.get(col) se não existir, retorna None
+                value = row.get(col, "N/A")
+                line_parts.append(f"{col}: {value}")
+            results += " | ".join(line_parts) + "\n"
+
+        return results.strip()
+
     except Exception as e:
         print("Erro na execução do SQL gerado:", e)
         return "Erro ao recuperar dados com o SQL gerado."
+
 
 # Evento de startup para criar as tabelas e inserir os dados do CSV (se necessário)
 @app.on_event("startup")
@@ -154,6 +223,7 @@ async def chat_endpoint(chat_request: ChatRequest):
         generated_sql = generate_sql_query(user_message)
         print("SQL gerado:", generated_sql)
         relevant_data = execute_sql_query(generated_sql)
+        print(f"Relevant Data: {relevant_data}")
     except Exception as e:
         print("Erro na geração/execução do SQL:", e)
         relevant_data = "Erro ao recuperar dados com o SQL gerado."
@@ -194,6 +264,12 @@ async def chat_endpoint(chat_request: ChatRequest):
     system_content = (
         "Você é um assistente de vendas de inseminação de gado. "
         "Responda apenas perguntas relacionadas aos dados presentes no banco de dados. "
+        "Utilize a formatação em **Markdown** para organizar sua resposta de forma clara e amigável. "
+        "Apresente cada registro encontrado como um item de uma lista com style de color black no texto, utilizando cabeçalhos e bullet points. "
+        "Caso os dados sejam melhor apresentados em formato de lista ou parágrafos, utilize o formato que achar mais claro.\n\n"
+        "Sempre o texto da resposta em cor preta. "
+
+        "Não diga que você consultou o banco de dados, apenas responda. "
         "Utilize os dados a seguir, se relevantes, para fundamentar suas respostas.\n\n"
         f"{table_explanation}\n"
         "Dados recuperados com base na consulta SQL gerada:\n"
@@ -213,7 +289,7 @@ async def chat_endpoint(chat_request: ChatRequest):
 
     # 6. Chama o modelo via LangChain para gerar a resposta final
     try:
-        llm = ChatOpenAI(temperature=0.7, model_name="gpt-3.5-turbo")
+        llm = ChatOpenAI(temperature=0.7, model_name="gpt-4o-mini")
         response = llm(messages_chain)
         bot_reply = response.content.strip()
     except Exception as e:
