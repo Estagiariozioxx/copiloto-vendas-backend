@@ -1,7 +1,9 @@
+# src/ingest_data.py
 import csv
 import os
 from src.database import get_db_connection
-# from src.vector_db import add_to_vector_db  # Descomente se desejar inserir também na base vetorizada
+# Descomente se desejar inserir também na base vetorizada
+# from src.vector_db import add_farm_embedding
 
 # Caminho para o CSV (usando caminho absoluto dentro do container)
 file_path = "/app/planilha2.csv"
@@ -10,18 +12,6 @@ file_path = "/app/planilha2.csv"
 with open(file_path, mode='r', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile, delimiter=",")
     rows = list(reader)
-
-
-# Imprimir os nomes das colunas e as primeiras 5 linhas para depuração
-"""
-print("Colunas lidas do CSV:", reader.fieldnames)
-print("Primeiras linhas do CSV:")
-for row in rows[:5]:
-    print(row)
-
-"""
-
-    
 
 # Função para renomear chaves conforme necessário
 def rename_keys(row):
@@ -51,15 +41,12 @@ def insert_into_mysql():
         print("Dados já inseridos. Pulando a inserção.")
     else:
         for row in rows:
-            # Imprimir a linha completa para depuração
-           # print("Inserindo linha:", row)
             try:
-                # Realiza as conversões necessárias
+                # Conversões necessárias
                 ecc = float(row["ECC"])
                 ciclicidade = int(row["CICLICIDADE"])
                 grhh_na_ia = int(row["grhh_na_ia"])
                 pgf_no_do = int(row["pgf_no_do"])
-                # Para 'DG', extraímos apenas os dígitos; se não houver dígitos, usamos 0
                 dg_str = row["DG"]
                 dg = int(''.join(filter(str.isdigit, dg_str))) if any(c.isdigit() for c in dg_str) else 0
                 vazia = int(row["VAZIA COM OU SEM CL"])
@@ -105,16 +92,48 @@ def insert_into_mysql():
                 vazia,
                 perda
             ))
-            
-            # Se desejar inserir na base vetorizada, descomente as linhas abaixo:
-            # text = f"{row['FAZENDA']} - {row['CATEGORIA']} - {row['PROTOCOLO']} - {row['IMPLANTE P4']}"
-            # add_to_vector_db(text)
-
         print("Dados inseridos com sucesso.")
 
     conn.commit()
     cursor.close()
     conn.close()
+"""
+###def index_farm_names():
+
+    from src.vector_db import add_farm_embedding
+    unique_farms = set(row["FAZENDA"] for row in rows)
+    for farm in unique_farms:
+        # Gera um ID com apenas caracteres ASCII (remove acentos)
+        farm_id = farm.lower().replace(" ", "_")
+        farm_id = farm_id.encode("ascii", "ignore").decode("ascii")
+        add_farm_embedding(farm_id, farm)
+    print("Indexação de nomes de fazenda concluída.")####
+    """
+
+def index_farm_names():
+    """
+    Indexa os nomes únicos de fazenda presentes no CSV utilizando o mecanismo de embeddings local,
+    removendo a primeira palavra "Fazenda" se presente.
+    """
+    from src.vector_db import add_farm_embedding
+    unique_farms = set(row["FAZENDA"] for row in rows)
+    for farm in unique_farms:
+        # Se a primeira palavra for "fazenda", remove-a
+        words = farm.split()
+        if words and words[0].lower() == "fazenda":
+            farm_processed = " ".join(words[1:]).strip()
+        else:
+            farm_processed = farm.strip()
+        # Gera um ID com apenas caracteres ASCII (remove acentos)
+        farm_id = farm_processed.lower().replace(" ", "_")
+        farm_id = farm_id.encode("ascii", "ignore").decode("ascii")
+        add_farm_embedding(farm_id, farm_processed)
+    print("Indexação de nomes de fazenda concluída.")
+    
+
+
+
 
 if __name__ == '__main__':
     insert_into_mysql()
+    index_farm_names()

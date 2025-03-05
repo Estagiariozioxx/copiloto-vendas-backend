@@ -5,7 +5,7 @@ langchain-community
 openai
 pydantic
 python-dotenv
-pinecone-client
+pinecone
 mysql-connector-python
 pandas
 
