@@ -2,10 +2,8 @@
 import csv
 import os
 from src.database import get_db_connection
-# Descomente se desejar inserir também na base vetorizada
-# from src.vector_db import add_farm_embedding
 
-# Caminho para o CSV (usando caminho absoluto dentro do container)
+# Caminho para o CSV (ajuste conforme necessário)
 file_path = "/app/planilha2.csv"
 
 # Abrir e ler o CSV usando csv.DictReader
@@ -97,43 +95,69 @@ def insert_into_mysql():
     conn.commit()
     cursor.close()
     conn.close()
-"""
-###def index_farm_names():
 
-    from src.vector_db import add_farm_embedding
-    unique_farms = set(row["FAZENDA"] for row in rows)
-    for farm in unique_farms:
-        # Gera um ID com apenas caracteres ASCII (remove acentos)
-        farm_id = farm.lower().replace(" ", "_")
-        farm_id = farm_id.encode("ascii", "ignore").decode("ascii")
-        add_farm_embedding(farm_id, farm)
-    print("Indexação de nomes de fazenda concluída.")####
-    """
+# Funções para indexação de embeddings para diferentes colunas
+
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 def index_farm_names():
-    """
-    Indexa os nomes únicos de fazenda presentes no CSV utilizando o mecanismo de embeddings local,
-    removendo a primeira palavra "Fazenda" se presente.
-    """
     from src.vector_db import add_farm_embedding
     unique_farms = set(row["FAZENDA"] for row in rows)
     for farm in unique_farms:
-        # Se a primeira palavra for "fazenda", remove-a
         words = farm.split()
         if words and words[0].lower() == "fazenda":
             farm_processed = " ".join(words[1:]).strip()
         else:
             farm_processed = farm.strip()
-        # Gera um ID com apenas caracteres ASCII (remove acentos)
         farm_id = farm_processed.lower().replace(" ", "_")
         farm_id = farm_id.encode("ascii", "ignore").decode("ascii")
         add_farm_embedding(farm_id, farm_processed)
-    print("Indexação de nomes de fazenda concluída.")
-    
+    logging.info("Indexação de nomes de fazenda concluída.")
 
+def index_raca_embeddings():
+    from src.vector_db import add_raca_embedding
+    unique_racas = set(row["RAÇA"] for row in rows)
+    for raca in unique_racas:
+        logging.info("Raça: " + raca)
+        add_raca_embedding(raca)
+    logging.info("Indexação de raças concluída.")
 
+def index_municipio_embeddings():
+    """
+    Indexa os valores únicos da coluna 'MUNICÍPIO' utilizando embeddings.
+    """
+    from src.vector_db import add_municipio_embedding
+    unique_municipios = set(row["MUNICÍPIO"] for row in rows)
+    for municipio in unique_municipios:
+        add_municipio_embedding(municipio)
+    print("Indexação de municípios concluída.")
 
+def index_implante_embeddings():
+    """
+    Indexa os valores únicos da coluna 'IMPLANTE P4' utilizando embeddings.
+    """
+    from src.vector_db import add_implante_embedding
+    unique_implantes = set(row["IMPLANTE P4"] for row in rows)
+    for implante in unique_implantes:
+        add_implante_embedding(implante)
+    print("Indexação de implantes concluída.")
+
+def index_empresa_embeddings():
+    """
+    Indexa os valores únicos da coluna 'EMPRESA' utilizando embeddings.
+    """
+    from src.vector_db import add_empresa_embedding
+    unique_empresas = set(row["EMPRESA"] for row in rows)
+    for empresa in unique_empresas:
+        add_empresa_embedding(empresa)
+    print("Indexação de empresas concluída.")
 
 if __name__ == '__main__':
     insert_into_mysql()
     index_farm_names()
+    index_raca_embeddings()
+    index_municipio_embeddings()
+    index_implante_embeddings()
+    index_empresa_embeddings()

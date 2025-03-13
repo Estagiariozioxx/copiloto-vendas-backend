@@ -8,4 +8,5 @@ python-dotenv
 pinecone
 mysql-connector-python
 pandas
+pyspellchecker
 
